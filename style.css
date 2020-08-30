@@ -1,0 +1,15 @@
+.nav-nav {
+    background-color: #9fecbf !important;
+}
+
+#logo {
+    background-color: #4fe46f;
+    padding: 8px;
+    border-radius: 8%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+body {
+    background-color: lightgray;
+}
