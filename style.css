@@ -20,11 +20,31 @@ body {
     padding: 20px;
 }
 
+.right-side-box {
+    background-color: aliceblue;
+    margin-top: 40px;
+    padding: 20px;
+}
+
 h1 {
     color: #4fe46f;
 }
 
-img {
+h2 {
+    color: #4fe46f;
+}
+
+#main-img {
     display: inline-block;
-    margin: 30px;
-  }
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-bottom: 15px;
+}
+
+.thumbs {
+    margin-bottom: 10px;
+}
+
+.lefties {
+    margin-right: 10px;
+}
