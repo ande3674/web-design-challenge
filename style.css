@@ -13,3 +13,18 @@
 body {
     background-color: lightgray;
 }
+
+.main-box {
+    background-color: aliceblue;
+    margin-top: 40px;
+    padding: 20px;
+}
+
+h1 {
+    color: #4fe46f;
+}
+
+img {
+    display: inline-block;
+    margin: 30px;
+  }
