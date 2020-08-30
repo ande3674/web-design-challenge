@@ -20,6 +20,12 @@ body {
     padding: 20px;
 }
 
+.main-box-visualization {
+    background-color: #e1eee4;
+    margin-top: 40px;
+    padding: 20px;
+}
+
 .right-side-box {
     background-color: #e1eee4;
     margin-top: 40px;
