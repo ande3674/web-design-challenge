@@ -72,3 +72,9 @@ h2 {
     border-color: #4fe46f;
 }
 
+/* Here we define some styles that will ONLY be applied at screen sizes below 600 pixels */
+@media (max-width: 600px) {
+    .nav-nav {
+        background-color: #175330 !important;
+    }
+}
